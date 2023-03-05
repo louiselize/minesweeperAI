@@ -16,3 +16,6 @@ Hugo Lesobre was responsible for the random choice part, while I took charge of 
 - Ratio : 8th
 
 ➡️ In summary, our AI achieved success on numerous occasions, but it was not the fastest among the participants.
+
+
+*Spring 2021 semester @ UTC*
